@@ -1,48 +1,100 @@
-# Hugo Parsa Forestry Starter
+￼
 
-[Hugo Parsa Theme developed by Themefischer](https://github.com/themefisher/parsa-hugo) for Forestry CMS.
+￼
+[FASHION]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[ARTICLE]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[NATURE]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[VALUABLE IDEA]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[PHILOSOPHY]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[FASHION]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[ARTICLE]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[NATURE]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[VALUABLE IDEA]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[PHILOSOPHY]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[FASHION]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[ARTICLE]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[NATURE]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[VALUABLE IDEA]
+Organize Your Life With 10 Simple rule
+Read More
+￼
+[FOOD]
+Charming Evening Field
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read More
+￼
+[FOOD]
+Charming Evening Field
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read More
+￼
+[FOOD]
+Charming Evening Field
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read More
+￼
+[FOOD]
+Charming Evening Field
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read More
+￼
+[FOOD]
+Charming Evening Field
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read More
+￼
+[FOOD]
+Charming Evening Field
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Read More
+		1 
+		2 
+		Next » 
 
-![Parsa Theme Preview](static/images/screenshot.jpg)
-
-Import to Forestry in one single click!
-
-[![Import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=forestryio/hugo-parsa-forestry&engine=hugo&version=0.74.3)
-
-## Prerequisites
-
-- Hugo > 0.62.2 (tested with 0.74.3)
-
-## Content Management
-
-![Forestry user interface](static/images/hugo-parsa-forestry.jpg)
-
-This project has been pre-configured to work with [Forestry](https://forestry.io), just import your repository ✨. \
-Any changes you make will be commited back to the repo, and deployed if you're using Netlify.
-
-## Customization
-
-You can customize the theme through the [`config.toml` file](https://github.com/forestryio/hugo-parsa-forestry/blob/master/config.toml). Those values are accessible from within Forestry.
-
-## Deployment and hosting with Netlify
-
-Import your site in [Netlify](https://netlify.com)
-
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
-3. Set the publish directory to: `public`
-4. Set `HUGO_VERSION` to `0.74.3`
-
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
-
-## Development
-
-```bash
-# clone your repository
-# cd in the project directory
-cd hugo-parsa-forestry
-
-# Start local dev server
-hugo server
-```
-
-For more information, see [official Hugo documentation](https://gohugo.io/getting-started/).
+￼
+Address
+		6 rip carl Avenue CA 90733
+Contact Info
+		Tel : +90 000 333 22
+		Email : exmaple@ymail.com
+Follow
+Copyright © 2020 a theme by themefisher.com
