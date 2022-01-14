@@ -1,11 +1,11 @@
 baseURL: /
-languageCode: en-us
-title: Hugo Parsa Forestry Starter
+languageCode: en-us 
+title: Easy Native Templates
 
 # Theme settings
 module:
   imports:
-   - path: github.com/themefisher/parsa-hugo
+   - path: github.com/easynative/templates
      mounts:
      - source: layouts
        target: layouts
@@ -52,8 +52,8 @@ params:
   bio: >-
     I’m a Freelance Interactive Art Director based in France. Focusing across
     branding and identity, digital and print.
-  mobile: +90 000 333 22
-  email: exmaple@ymail.com
+  mobile: +8899679402
+  email: get@easynative.app
   address: 6 rip carl Avenue CA 90733
   contact_form_action: '#'
   google_analitycs_id: Your ID
